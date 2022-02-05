@@ -25,8 +25,6 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
 
   return (
     <Box>
-      <h1>Hello World</h1>
-      
       <Banner 
         purpose="RENT A HOME"
         title1="Rental Home for"
